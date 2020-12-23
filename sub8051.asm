@@ -1,0 +1,5 @@
+CLR C
+MOV A,#02H
+SUBB A,#01H
+MOV R2,A
+JMP $

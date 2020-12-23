@@ -1,0 +1,5 @@
+CLR C 
+MOV A,#11b
+MOV B,#01b
+ANL A,B
+JMP $

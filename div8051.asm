@@ -1,0 +1,6 @@
+CLR C
+MOV A,#06
+MOV B,#03
+DIV AB
+MOV R4,A
+JMP $
